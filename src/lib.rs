@@ -1,1 +1,2 @@
-mod codewars;
+pub mod codewars;
+pub mod hackerrank;
